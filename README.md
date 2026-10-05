@@ -1,4 +1,4 @@
-# dawami-Upates
+# update.json
 {
   "latestVersion": "1.11.0",
   "apkUrl": "",
